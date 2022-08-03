@@ -40,7 +40,7 @@ CcAvenue.cCAvenueInit(
 ```
 ### Features
 
-![Screenshot](images/Screenshot 2022-08-03 at 3.00.51 PM.png)
-![Screenshot](images/Screenshot 2022-08-03 at 3.01.09 PM.png)
-![Screenshot](images/Screenshot 2022-08-03 at 3.01.34 PM.png)
-![Screenshot](images/Screenshot 2022-08-03 at 3.01.50 PM.png)
+![Screenshot](https://github.com/avinash-gotluru/cc_avenue/blob/eb9841c6c6e8bf4934516b42d8c16ff808a31543/images/Screenshot%202022-08-03%20at%203.00.51%20PM.png)
+![Screenshot](https://github.com/avinash-gotluru/cc_avenue/blob/eb9841c6c6e8bf4934516b42d8c16ff808a31543/images/Screenshot%202022-08-03%20at%203.01.09%20PM.png)
+![Screenshot](https://github.com/avinash-gotluru/cc_avenue/blob/eb9841c6c6e8bf4934516b42d8c16ff808a31543/images/Screenshot%202022-08-03%20at%203.01.34%20PM.png)
+![Screenshot](https://github.com/avinash-gotluru/cc_avenue/blob/eb9841c6c6e8bf4934516b42d8c16ff808a31543/images/Screenshot%202022-08-03%20at%203.01.50%20PM.png)
