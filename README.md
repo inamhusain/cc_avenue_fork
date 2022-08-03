@@ -38,3 +38,9 @@ CcAvenue.cCAvenueInit(
         rsaKeyUrl: 'https://secure.ccavenue.com/transaction/jsp/GetRSA.jsp'
       );
 ```
+### Features
+
+![Screenshot](images/Screenshot 2022-08-03 at 3.00.51 PM.png)
+![Screenshot](images/Screenshot 2022-08-03 at 3.01.09 PM.png)
+![Screenshot](images/Screenshot 2022-08-03 at 3.01.34 PM.png)
+![Screenshot](images/Screenshot 2022-08-03 at 3.01.50 PM.png)
