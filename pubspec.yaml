@@ -1,6 +1,6 @@
 name: cc_avenue
 description: cc_avenue payment gateway non-seamless method. you can use this package to call the native code in android to load payment gatway in the webview
-version: 1.0.2
+version: 1.0.3
 repository: https://github.com/avinash-gotluru/cc_avenue
 
 environment:
